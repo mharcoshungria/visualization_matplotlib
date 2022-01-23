@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/YX6UATs.png"  width="160">
+
 # Projeto - Visualização com Matplotlib
 
 ## Considerações iniciais
