@@ -28,11 +28,11 @@ $ conda install matplotlib
 ```
 
 ### Conjunto de dados
-O conjunto de dados utilizado são os registros de milhares de lutas no Ultimate Fight Championship (UFC). O arquivo [ufc.csv](ufc.csv) possui mais de 145 colunas, o que é demasiadamente grande para as nossas intenções. Deste modo, iremos focar apenas uma parte dos dados.
+O conjunto de dados utilizado são os registros de milhares de lutas no Ultimate Fight Championship (UFC). O arquivo [ufc.csv](https://github.com/mharcoshungria/visualization_matplotlib/blob/main/ufc.csv) possui mais de 145 colunas, o que é demasiadamente grande para as nossas intenções. Deste modo, iremos focar apenas uma parte dos dados.
 
 #### Descrição do dados
 
-De todas as colunas do arquivo [ufc.csv](ufc.csv), iremos praticar com:
+De todas as colunas do arquivo [ufc.csv](https://github.com/mharcoshungria/visualization_matplotlib/blob/main/ufc.csv), iremos praticar com:
 - R_fighter: Nome do lutador do canto vermelho.
 - B_fighter: Nome do lutador do canto azul.
 - Referee: Nome do árbitro da luta.
