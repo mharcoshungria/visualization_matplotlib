@@ -2,7 +2,7 @@
 
 # Visualização de Dados com Matplotlib
 
-Este notebook é parte das tarefas da Formação Intensiva de Data Science da [Awari](https://awari.com.br/). 
+Este repositório é parte das tarefas da Formação Intensiva de Data Science da [Awari](https://awari.com.br/). 
 
 ## Considerações iniciais
 
