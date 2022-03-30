@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/YX6UATs.png"  width="160">
 
-# Projeto - Visualização com Matplotlib
+# Visualização de Dados com Matplotlib
 
 ## Considerações iniciais
 
