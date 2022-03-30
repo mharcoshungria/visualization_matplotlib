@@ -2,6 +2,8 @@
 
 # Visualização de Dados com Matplotlib
 
+Este notebook é parte das tarefas da Formação Intensiva de Data Science da [Awari](https://awari.com.br/). 
+
 ## Considerações iniciais
 
 O objetivo deste notebook é fazer com que o leitor assimile os recursos de uma das bibliotecas mais importantes do Python: o Matplotlib. Para isso, exemplos e conceitos desta biblioteca serão apresentados ao longo da jornada. Concomitantemente, serão solicitadas algumas tarefas práticas ao leitor.
